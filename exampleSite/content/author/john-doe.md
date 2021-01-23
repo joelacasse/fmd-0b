@@ -1,5 +1,5 @@
 +++
-description = "Developer & Designer"
+description = "Developer/Designer"
 image = ""
 title = "Joe LaCasse"
 
