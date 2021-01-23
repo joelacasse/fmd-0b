@@ -46,7 +46,7 @@ title = "Keep in touch"
 [params.cta.button]
 enable = true
 label = "Yes, please!"
-link = "#"
+link = "https://faintmarkdesign.ck.page/521e6f6658"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
