@@ -34,7 +34,7 @@ logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
+title = "Inviting design for everyday use"
 [params.cookies]
 enable = true
 expire_days = 2
