@@ -39,7 +39,7 @@ title = "Inviting design for everyday use"
 enable = true
 expire_days = "2"
 [params.cta]
-description = "Sign up for unobtrusive updates on my latest designs. "
+description = "Sign up for utterly unobtrusive updates with the latest designs. "
 enable = true
 image = "images/hugo-muscot.svg"
 title = "Keep in touch"
