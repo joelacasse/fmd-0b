@@ -6,17 +6,21 @@ summaryLength = "10"
 theme = "northendlab-hugo"
 title = "faint mark design"
 [[menu.footer]]
+name = "Prints"
+url = "https://www.etsy.com/shop/FaintMarkDesign"
+weight = 1
+[[menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 2
+weight = 3
 [[menu.main]]
-URL = "tools"
-name = "Designs"
+name = "Prints"
+url = "https://www.etsy.com/shop/FaintMarkDesign"
 weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 2
+weight = 3
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
