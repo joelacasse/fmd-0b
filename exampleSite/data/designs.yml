@@ -57,6 +57,10 @@ tools:
   - name: Google Analytics
     image: "/images/tools/Google-Analytics.jpg"
     link: https://analytics.google.com/analytics/web
+designs:
+- title: Patterns
+  design:
+  - name: Forest
 menu:
   main:
     URL: tools
