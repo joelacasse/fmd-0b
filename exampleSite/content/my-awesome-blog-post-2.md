@@ -1,10 +1,10 @@
 +++
-title = "My awesome second blog post"
+author = "Joe LaCasse"
+categories = ["design"]
+date = 2021-01-23T19:00:00Z
+description = "On the origins and destinations of faint mark design"
 image = "/images/post/post-2.jpg"
-author = "John Doe"
-date = 2019-11-07T05:00:00Z
-description = "This is meta description"
-categories = ["Design Tools"]
+title = "Preparing for launch."
 type = "post"
 
 +++
