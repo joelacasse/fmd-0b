@@ -37,7 +37,7 @@ image = "images/banner/illustration.svg"
 title = "Inviting design for everyday use"
 [params.cookies]
 enable = true
-expire_days = 2
+expire_days = "2"
 [params.cta]
 description = "Sign up for unobtrusive updates on my latest designs. "
 enable = true
