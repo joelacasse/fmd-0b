@@ -3,15 +3,15 @@ label: Tools
 hide_body: true
 fields:
 - type: field_group_list
-  name: tools
-  label: tools
+  name: designs
+  label: designs
   fields:
   - type: text
     name: title
     label: title
   - type: field_group_list
-    name: tool
-    label: tool
+    name: design
+    label: design
     fields:
     - type: text
       name: name
